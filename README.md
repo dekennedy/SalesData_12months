@@ -3,6 +3,8 @@
 
 
 ![Graph 1](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%201.PNG)
+![Graph 2](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%202.PNG)
+![Graph 3](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%203.PNG)
 
 > Graph of Sales Data
 ---
