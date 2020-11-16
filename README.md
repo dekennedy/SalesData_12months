@@ -10,7 +10,7 @@
 ### Table of Contents
 
 - [Description](#description)
-- [How To Use](#how-to-use)
+- [Technologies](#Technologies)
 - [Author Info](#author-info)
 
 ---
