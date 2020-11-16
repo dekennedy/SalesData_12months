@@ -82,7 +82,6 @@ SOFTWARE.
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Website - [David Kennedy](https://)
 
 [Back To The Top](#SalesData_12months)
