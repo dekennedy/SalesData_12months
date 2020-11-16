@@ -1,24 +1,21 @@
 # SalesData_12months
 
 
-
-![Graph 1](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%201.PNG)
 > Graph of Sales Data by Month
+![Graph 1](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%201.PNG)
 
 
-
-![Graph 2](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%202.PNG)
 > Graph of Sales Data by City
+![Graph 2](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%202.PNG)
 
 
-
-![Graph 3](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%203.PNG)
 > Graph of Sales Data by Hour
+![Graph 3](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%203.PNG)
 
 
-
-![Table 1](https://github.com/dekennedy/12mSalesdata/blob/master/Table%201.PNG)
 > Table showing the most common items purchased together
+![Table 1](https://github.com/dekennedy/12mSalesdata/blob/master/Table%201.PNG)
+
 
 
 ---
