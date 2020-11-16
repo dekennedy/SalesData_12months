@@ -2,7 +2,7 @@
 
 
 
-![Project Image](project-image-url)
+![Graph 1](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%201.PNG)
 
 > Graph of Sales Data
 ---
