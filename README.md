@@ -20,7 +20,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-In this porject I look at 12 months of sales data and try to make real world 
+In this porject I look at 12 months of sales data and make real world 
 
 #### Technologies
 
