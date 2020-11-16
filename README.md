@@ -3,11 +3,13 @@
 
 
 ![Graph 1](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%201.PNG)
+> Graph of Sales Data by Month
 ![Graph 2](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%202.PNG)
+> Graph of Sales Data by City
 ![Graph 3](https://github.com/dekennedy/12mSalesdata/blob/master/Graph%203.PNG)
+> Graph of Sales Data by Hour
 ![Table 1](https://github.com/dekennedy/12mSalesdata/blob/master/Table%201.PNG)
-
-> Graph of Sales Data
+> Table showing the most common items purchased together
 ---
 
 ### Table of Contents
@@ -20,13 +22,15 @@
 
 ## Description
 
-In this project I look at 12 months of sales data and make real world 
+In this project I look at 12 months of sales data then used Python to analyze it, and answered business questions. 
+
+This data set contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
 #### Technologies
 
 - Python
 - Pandas
-- MatPlot
+- Matplotlib
 
 [Back To The Top](#SalesData_12months)
 
