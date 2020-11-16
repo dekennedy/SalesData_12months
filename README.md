@@ -20,12 +20,13 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+In this porject I look at 12 months of sales data and try to make real world 
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Pythong
+- Pandas
+- MatPlot
 
 [Back To The Top](#SalesData_12months)
 
