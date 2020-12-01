@@ -30,7 +30,7 @@
 
 ## Description
 
-In this project I look at 12 months of sales data then used Python to analyze it, and answered business questions. 
+In this project I look at 12 months of sales data then used Python to analyze it, and answer business questions. 
 
 This data set contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
