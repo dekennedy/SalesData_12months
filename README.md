@@ -34,9 +34,9 @@ This data set contains hundreds of thousands of electronics store purchases brok
 
 ## Results
 
-Unsurprisingly the months with the most sales were during the holiday season. The time of day when people were most likely to purchase items was split almost evenly between the lunch rush and right after work. The flow of customers throughout the day could assist the management team create an efficient employee schedule and ensure there would be adequate staff available to assist customer. 
+Unsurprisingly the months with the most sales were during the holiday season. The time of day when people were most likely to purchase items was split almost evenly between the lunch rush and right after work. The flow of customers throughout the day could help the management team create an efficient employee schedule and ensure there would be adequate staff available to assist customers. 
 
-The most interesting point was the items most purchased together. This could lead to a recommendations system or a system of promotions to encourage more sales.
+The most interesting finding was the items most purchased together. This could lead to a recommendations system or a system of promotions to encourage more sales.
 
 
 #### Technologies
