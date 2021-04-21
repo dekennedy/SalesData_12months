@@ -1,5 +1,20 @@
 # SalesData_12months
 
+---
+
+### Table of Contents
+
+- [Description](#description)
+- [Technologies](#Technologies)
+- [Author Info](#author-info)
+
+---
+
+## Description
+
+In this project I look at 12 months of sales data then used Python to analyze it, and answer business questions. 
+
+This data set contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
 
 
 ![Graph 1](https://github.com/dekennedy/SalesData_12months/blob/main/Graph%201.PNG)
@@ -17,22 +32,8 @@
 ![Table 1](https://github.com/dekennedy/SalesData_12months/blob/main/Table%201.PNG)
 > Table showing the most common items purchased together
 
-
----
-
-### Table of Contents
-
-- [Description](#description)
-- [Technologies](#Technologies)
-- [Author Info](#author-info)
-
----
-
-## Description
-
-In this project I look at 12 months of sales data then used Python to analyze it, and answer business questions. 
-
-This data set contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. 
+## Results
+Unsurprisingly the months with the most sales were during the holiday season. The time of day when people were most likely to purchase items was split almost evenly between the lunch rush and right after work.
 
 #### Technologies
 
