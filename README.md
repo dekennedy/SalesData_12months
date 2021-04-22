@@ -2,7 +2,7 @@
 An analysis of a 1 year of Sales Data.
 
 
-
+---
 ### Table of Contents
 
 - [Description](#description)
